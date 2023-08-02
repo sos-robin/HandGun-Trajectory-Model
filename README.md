@@ -1,5 +1,8 @@
 # HandGun-Trajectory-Model
 Python code using Euler's method to simulate projectile motion of a 9mm bullet
+
+
+
 #Features
 Projectile motion simulation using Euler's method.
 Visualization of the bullet's trajectory with matplotlib.
